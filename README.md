@@ -24,5 +24,5 @@ SQL project analyzing Netflix data by solving business problems using advanced q
  other content as 'Good'. count how many items fall into each category.
 
 ## Queries/Answers
-<-a href="https://github.com/Tusharnjaiswal/SQL_Netflix_Analysis/blob/main/Queries.sql">Click here</a>
+-<a href="https://github.com/Tusharnjaiswal/SQL_Netflix_Analysis/blob/main/Queries.sql">Click here</a>
 
